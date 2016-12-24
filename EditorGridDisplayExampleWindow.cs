@@ -51,7 +51,7 @@ public class EditorGridDisplayExampleWindow : EditorWindow
         });
         
         //once the draw function is set up, draw it! (this is actually what draws it)
-        scrollPosition = EditorGridDisplay.Draw(scrollPosition, 8);
+        scrollPosition = EditorGridDisplay.Draw(scrollPosition, colors.Length);
 
         EditorGUILayout.TextField("You can draw fields after and before it!");
     }
