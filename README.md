@@ -1,6 +1,6 @@
 # EditorGridDisplay
 A simple class to display a grid of items using the Unity Editor.
-![alt text](https://github.com/Modex2/EditorGridDisplay/blob/master/Show.png "Example usage")
+![alt text](https://github.com/Matt3088/EditorGridDisplay/blob/master/Show.png "Example usage")
 
 ##Usage
 Inside the editor window class:
